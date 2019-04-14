@@ -6,7 +6,7 @@ React-Static Basic template with added configuration for blog post deployment vi
 
 To get started, click below to deploy to Netlify.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yoshidf/react-static)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yoshidf/react-static) [![Greenkeeper badge](https://badges.greenkeeper.io/toto011/react-static.svg)](https://greenkeeper.io/)
 
 Or, copy this folder and signup with [Netlify](https://www.netlify.com), click "New site from Git", select GitHub, and add "yarn build" as the "Build command" and "dist" as the "Publish directory".
 
